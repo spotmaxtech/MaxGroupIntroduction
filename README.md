@@ -27,3 +27,5 @@ MaxGroup提供实例中断预处理、机型推荐、集群优化、智能负载
 </p>
 
 ## 产品下载
+
+[快速注册](http://www.spotmaxtech.com/)，立即获取MaxGroup最新版本
