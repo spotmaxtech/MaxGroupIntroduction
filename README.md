@@ -26,7 +26,7 @@ MaxGroup提供实例中断预处理、机型推荐、集群优化、智能负载
 <img width="600" src="https://github.com/spotmaxtech/MaxGroupIntroduction/blob/master/images/maxgroup2%402x.png">
 </p>
 
-MaxGroup的工作原理使得使用Spot Instance也能保证系统的稳定，与传统方式相比，成本节省是一个极大的优势
+MaxGroup的工作原理使得采用Spot Instance也能保证系统的稳定，与传统方式相比，成本节省是一个极大的优势
 
 <p align="center">
 <img width="800" src="https://github.com/spotmaxtech/MaxGroupIntroduction/blob/master/images/maxgroup4%402x.png">
@@ -35,4 +35,4 @@ MaxGroup的工作原理使得使用Spot Instance也能保证系统的稳定，�
 
 ## 产品下载
 
-[快速注册](http://www.spotmaxtech.com/)，立即获取MaxGroup最新版本
+[快速注册](http://www.spotmaxtech.com/register)，立即获取MaxGroup最新版本
